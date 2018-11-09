@@ -1,0 +1,19 @@
+{
+  "name": "bookmarker",
+  "version": "0.1.0",
+  "description": "Registro de enlaces favoritos",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/fffrowies/bookmk.git",
+  "keywords": [
+    "Electron",
+    "bookmarker"
+  ],
+  "author": "Fernando Rowies",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.8"
+  }
+}
